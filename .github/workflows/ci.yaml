@@ -9,6 +9,7 @@ on:
       - main
     paths-ignore:
       - 'k8s/**'
+      - 'helm/**'
       - 'README.md'
 
 jobs:
